@@ -1,0 +1,67 @@
+{
+  "notebook": "Pauli_Graph_QHED_Reference.ipynb",
+  "runner": "scripts/execute_reference_notebook.py",
+  "python_version": "3.13.3",
+  "numpy_version": "2.3.5",
+  "executed_code_cells": 8,
+  "errors": 0,
+  "total_elapsed_seconds": 5.8526,
+  "cells": [
+    {
+      "execution_count": 1,
+      "cell_id": "code-01-imports",
+      "status": "ok",
+      "elapsed_seconds": 0.000119,
+      "stdout_lines": 4
+    },
+    {
+      "execution_count": 2,
+      "cell_id": "code-02-graphs",
+      "status": "ok",
+      "elapsed_seconds": 0.091277,
+      "stdout_lines": 2
+    },
+    {
+      "execution_count": 3,
+      "cell_id": "code-03-zx-example",
+      "status": "ok",
+      "elapsed_seconds": 0.318851,
+      "stdout_lines": 3
+    },
+    {
+      "execution_count": 4,
+      "cell_id": "code-04-zx-resources",
+      "status": "ok",
+      "elapsed_seconds": 0.306087,
+      "stdout_lines": 2
+    },
+    {
+      "execution_count": 5,
+      "cell_id": "code-05-full-benchmark",
+      "status": "ok",
+      "elapsed_seconds": 4.546995,
+      "stdout_lines": 3
+    },
+    {
+      "execution_count": 6,
+      "cell_id": "code-06-case-table",
+      "status": "ok",
+      "elapsed_seconds": 0.000205,
+      "stdout_lines": 32
+    },
+    {
+      "execution_count": 7,
+      "cell_id": "code-07-boundary-cases",
+      "status": "ok",
+      "elapsed_seconds": 0.415987,
+      "stdout_lines": 3
+    },
+    {
+      "execution_count": 8,
+      "cell_id": "code-08-qiskit-crosscheck",
+      "status": "ok",
+      "elapsed_seconds": 0.172972,
+      "stdout_lines": 1
+    }
+  ]
+}

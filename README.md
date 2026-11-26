@@ -64,3 +64,7 @@ python3 scripts/execute_reference_notebook.py
 ```
 
 Optional Qiskit 4-qubit statevector cross-validation runs automatically when `requirements-optional-qiskit.txt` is installed.
+
+## License
+
+Released under the [MIT License](./LICENSE).
